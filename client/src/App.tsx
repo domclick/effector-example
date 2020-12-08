@@ -20,7 +20,7 @@ export const App = () =>  {
         <UserList2 />
       </div>
       <div>
-        <h2><b>Third example:</b> Track request status in component. Try to switch slow of offline network mode in Devtools and refresh this page</h2>
+        <h2><b>Third example:</b> Track request status in component. Try to switch slow or offline network mode in Devtools and refresh this page</h2>
         <UserList3 />
       </div>
     </div>
