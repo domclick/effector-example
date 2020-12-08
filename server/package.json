@@ -1,0 +1,14 @@
+{
+  "name": "effector-example-server",
+  "version": "1.0.0",
+  "description": "server side for Effector example app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
